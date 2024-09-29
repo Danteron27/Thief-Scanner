@@ -4,8 +4,7 @@
 Este documento proporciona las instrucciones necesarias para utilizar la aplicación de captura de tráfico. Es fundamental seguir cada uno de los pasos a continuación para asegurar un funcionamiento óptimo del programa.
 
 ## Requisitos Previos
-Antes de ejecutar la aplicación, asegúrate de tener instalado **Npcap**. Esta herramienta es esencial para que la aplicación funcione correctamente, ya que permite la captura de paquetes en la red. Puedes descargar Npcap desde su página oficial:
-
+Antes de ejecutar la aplicación, asegúrate de tener instalado **Npcap**. Esta herramienta es esencial para que la aplicación funcione correctamente, ya que permite la captura de paquetes en la red. Puedes instalar Npcap desde el archivo dejado en el repositorio.
 ## Pasos para Ejecutar la Aplicación
 
 1. **Instalación de Npcap**
